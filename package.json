@@ -1,0 +1,9 @@
+{
+  "name": "openai-proxy",
+  "version": "1.0.0",
+  "main": "api/chat.js",
+  "scripts": {
+    "vercel-build": "echo ok"
+  },
+  "dependencies": {}
+}
