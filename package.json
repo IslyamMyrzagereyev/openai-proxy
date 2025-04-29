@@ -5,5 +5,7 @@
   "scripts": {
     "vercel-build": "echo ok"
   },
-  "dependencies": {}
+  "dependencies": {
+    "openai": "^3.0.0"
+  }
 }
